@@ -1,1 +1,3 @@
-# paginapersonal
+# Información relevante
+Bienvenidos
+Sitio de prácticas
